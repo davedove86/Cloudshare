@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="139" height="32.791" viewBox="0 0 139 32.791">
+  <g id="Logo" transform="translate(-380 -34)">
+    <g id="Logo-2" data-name="Logo" transform="translate(312.748 -49.322)">
+      <path id="Path_1" data-name="Path 1" d="M101.1,97.4a6.9,6.9,0,0,0-3.823-1.986q.008-.213.008-.425a11.667,11.667,0,0,0-23.125-2.2,8.271,8.271,0,0,0,1.361,16.43c.1,0,.2,0,.316-.007.094,0,.183.007.271.007h4.655a.949.949,0,1,0,0-1.9H76.111c-.067,0-.137,0-.213-.006l-.047,0-.047,0c-.108,0-.2.007-.279.007a6.372,6.372,0,0,1-.467-12.727l.777-.056.1-.773a9.768,9.768,0,0,1,19.458,1.227,9.921,9.921,0,0,1-.07,1.171L95.194,97.2l1.049.02a5.048,5.048,0,0,1-.1,10.1c-.12,0-.246,0-.372-.014L95.7,107.3l-.072.006c-.116.009-.215.014-.305.014H90.571a.949.949,0,1,0,0,1.9h4.754c.12,0,.246,0,.383-.014.148.009.3.014.439.014A6.947,6.947,0,0,0,101.1,97.4Z" fill="#fff"/>
+      <path id="Path_2" data-name="Path 2" d="M207.073,215.808a.949.949,0,0,0,.671-1.621l-5.345-5.345-5.345,5.345a.95.95,0,0,0,1.343,1.343l3.053-3.053v16.288a.949.949,0,1,0,1.9,0V212.477l3.053,3.053A.947.947,0,0,0,207.073,215.808Z" transform="translate(-117.226 -113.602)" fill="#fff"/>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(-5 26)">
+      <text id="Cloud" transform="translate(433 31)" fill="rgba(255,255,255,0.84)" font-size="18" font-family="FuturaPT-Book, Futura PT"><tspan x="0" y="0">Cloud</tspan></text>
+      <text id="Share" transform="translate(476 31)" fill="rgba(255,255,255,0.84)" font-size="18" font-family="FuturaPT-Heavy, Futura PT" font-weight="800"><tspan x="0" y="0">Share</tspan></text>
+    </g>
+  </g>
+</svg>
